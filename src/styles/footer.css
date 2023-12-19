@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+    background-color: #575149;
+    color: #FFF;
+    margin-top: 40px;
+    font-family: "Baskerville", "Palatino Linotype", "Palatino", "Times New Roman", serif;
+}
+
+#footer-text {
+    display: flex;
+    flex-direction: column;
+}
+
+#footer-text > * {
+    margin-bottom: 10px; 
+}
+
+#footer-address {
+    white-space: pre-line;
+}
+
+#footer-number,
+#footer-email {
+    font-size: 1.1em; 
+}

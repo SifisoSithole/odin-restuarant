@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'lato', Helvetica, Arial, sans-serif;
+}
+
+.links {
+    cursor: pointer;
+}
